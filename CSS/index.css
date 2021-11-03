@@ -2,17 +2,51 @@ body {
     background-color: blue;
 }
 
-p {
-    color: white;
-    text-align: center;
-}
 
-h1 {
+/* h1 {
     color: rgb(252, 201, 201);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+} */
+
+.name {
+    color: red;
 }
 
-h3 {
+.main_heading {
     color: white;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+#description_paragraph {
+    color: yellow;
+}
+
+.students_page {
+    background-color: white;
+}
+
+.coding_text {
+    color: green;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.students_page h3 {
+    color: yellowgreen;
+}
+
+.more_description {
+    background-color: yellow;
+}
+
+.sidebar {
+    background-color: white;
+}
+
+.main {
+    background-color: yellow;
+    padding: 5%;
+    margin-top: 10%;
 }
